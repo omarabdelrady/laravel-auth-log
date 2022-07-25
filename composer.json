@@ -1,5 +1,5 @@
 {
-    "name": "samuelnitsche/laravel-auth-log",
+    "name": "omarabdelrady/laravel-auth-log",
     "description": "Laravel Auth Log provides authentication logger and notification for Laravel.",
     "keywords": [
         "laravel",
@@ -10,8 +10,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Samuel Nitsche",
-            "email": "mail@samynitsche.de"
+            "name": "omarabdelrady",
+            "email": "omarabdelrady123@gmail.com"
         }
     ],
     "require": {
